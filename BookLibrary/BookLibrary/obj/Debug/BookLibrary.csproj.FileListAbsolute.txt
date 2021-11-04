@@ -1,0 +1,10 @@
+C:\Users\Jonas\Desktop\Visma\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe.config
+C:\Users\Jonas\Desktop\Visma\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe
+C:\Users\Jonas\Desktop\Visma\BookLibrary\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\Users\Jonas\Desktop\Visma\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\Visma\BookLibrary\BookLibrary\obj\Debug\BookLibrary.exe
+C:\Users\Jonas\Desktop\Visma\BookLibrary\BookLibrary\obj\Debug\BookLibrary.pdb
+C:\Users\Jonas\Desktop\Visma\BookLibrary\BookLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonas\Desktop\Visma\BookLibrary\BookLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jonas\Desktop\Visma\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csproj.CopyComplete
+C:\Users\Jonas\Desktop\Visma\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csprojAssemblyReference.cache

@@ -1,0 +1,79 @@
+[
+  {
+    "WhoTaken": "me",
+    "PeriodDays": 10,
+    "DateTaken": "2021-11-03T22:09:39.1229618+02:00",
+    "Name": "Book3",
+    "Author": "Author1",
+    "Category": "Category1",
+    "Language": "Language1",
+    "Publication_date": "Publication_date",
+    "ISBN": "19999819"
+  },
+  {
+    "WhoTaken": null,
+    "PeriodDays": 0,
+    "DateTaken": "2021-11-03T22:17:04.0206743+02:00",
+    "Name": "Book1",
+    "Author": "Author1",
+    "Category": "Category1",
+    "Language": "Language1",
+    "Publication_date": "Publication_date",
+    "ISBN": "19999819"
+  },
+  {
+    "WhoTaken": "i am",
+    "PeriodDays": 10,
+    "DateTaken": "2021-11-04T17:34:29.3028244+02:00",
+    "Name": "Book4",
+    "Author": "Author1",
+    "Category": "Category1",
+    "Language": "Language1",
+    "Publication_date": "Publication_date",
+    "ISBN": "19999819"
+  },
+  {
+    "WhoTaken": "Someone",
+    "PeriodDays": 10,
+    "DateTaken": "2021-11-04T17:34:50.4536514+02:00",
+    "Name": "Book4",
+    "Author": "Author1",
+    "Category": "Category1",
+    "Language": "Language1",
+    "Publication_date": "Publication_date",
+    "ISBN": "19999819"
+  },
+  {
+    "WhoTaken": null,
+    "PeriodDays": 0,
+    "DateTaken": "0001-01-01T00:00:00",
+    "Name": "Book4",
+    "Author": "Author1",
+    "Category": "Category1",
+    "Language": "Language1",
+    "Publication_date": "Publication_date",
+    "ISBN": "19999819"
+  },
+  {
+    "WhoTaken": null,
+    "PeriodDays": 0,
+    "DateTaken": "2021-11-03T22:09:30.3160519+02:00",
+    "Name": "Book2",
+    "Author": "Author1",
+    "Category": "Category1",
+    "Language": "Language1",
+    "Publication_date": "Publication_date",
+    "ISBN": "19999819"
+  },
+  {
+    "WhoTaken": null,
+    "PeriodDays": 0,
+    "DateTaken": "0001-01-01T00:00:00",
+    "Name": "Book4",
+    "Author": "Author1",
+    "Category": "Category1",
+    "Language": "Language1",
+    "Publication_date": "Publication_date",
+    "ISBN": "19999819"
+  }
+]
