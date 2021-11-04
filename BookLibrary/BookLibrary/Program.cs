@@ -36,10 +36,10 @@ namespace BookLibrary
 				"remove [book_name]/[book_author]");
 			Console.ForegroundColor = ConsoleColor.Yellow;
 			Console.WriteLine("\nExamples:\nadd NewBook.json\n" +
-				"take -> Reader10025 -> 30 -> In Search of Lost Time/Marcel Proust\n" +
-				"return In Search of Lost Time/Marcel Proust\n" +
-				"list author/category Marcel Proust/Novel\n" +
-				"remove In Search of Lost Time/Marcel Proust\n");
+				"take -> Reader10025 -> 30 -> The Hostage/C. S. Forester\n" +
+				"return The Hostage/C. S. Forester\n" +
+				"list author/category C. S. Forester/Adventure OR list available books OR list\n" +
+				"remove The Hostage/C. S. Forester\n");
 			Console.ResetColor();
 		}
 	}

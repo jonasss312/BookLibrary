@@ -1,79 +1,90 @@
 [
   {
-    "WhoTaken": "me",
-    "PeriodDays": 10,
-    "DateTaken": "2021-11-03T22:09:39.1229618+02:00",
-    "Name": "Book3",
-    "Author": "Author1",
-    "Category": "Category1",
-    "Language": "Language1",
-    "Publication_date": "Publication_date",
-    "ISBN": "19999819"
-  },
-  {
     "WhoTaken": null,
     "PeriodDays": 0,
-    "DateTaken": "2021-11-03T22:17:04.0206743+02:00",
-    "Name": "Book1",
-    "Author": "Author1",
-    "Category": "Category1",
-    "Language": "Language1",
-    "Publication_date": "Publication_date",
-    "ISBN": "19999819"
-  },
-  {
-    "WhoTaken": "i am",
-    "PeriodDays": 10,
-    "DateTaken": "2021-11-04T17:34:29.3028244+02:00",
-    "Name": "Book4",
-    "Author": "Author1",
-    "Category": "Category1",
-    "Language": "Language1",
-    "Publication_date": "Publication_date",
-    "ISBN": "19999819"
-  },
-  {
-    "WhoTaken": "Someone",
-    "PeriodDays": 10,
-    "DateTaken": "2021-11-04T17:34:50.4536514+02:00",
-    "Name": "Book4",
-    "Author": "Author1",
-    "Category": "Category1",
-    "Language": "Language1",
-    "Publication_date": "Publication_date",
-    "ISBN": "19999819"
+    "DateTaken": "0001-01-01T00:00:00",
+    "Name": "The Grass is Always Greener",
+    "Author": "Jeffrey Archer",
+    "Category": "Modern Times",
+    "Language": "English",
+    "Publication_date": "May 1, 2000",
+    "ISBN": "1-86092-049-7"
   },
   {
     "WhoTaken": null,
     "PeriodDays": 0,
     "DateTaken": "0001-01-01T00:00:00",
-    "Name": "Book4",
-    "Author": "Author1",
-    "Category": "Category1",
-    "Language": "Language1",
-    "Publication_date": "Publication_date",
-    "ISBN": "19999819"
-  },
-  {
-    "WhoTaken": null,
-    "PeriodDays": 0,
-    "DateTaken": "2021-11-03T22:09:30.3160519+02:00",
-    "Name": "Book2",
-    "Author": "Author1",
-    "Category": "Category1",
-    "Language": "Language1",
-    "Publication_date": "Publication_date",
-    "ISBN": "19999819"
+    "Name": "Murder!",
+    "Author": "Arnold Bennett",
+    "Category": "Crime",
+    "Language": "English",
+    "Publication_date": "April 29 2009",
+    "ISBN": "1-86092-012-8"
   },
   {
     "WhoTaken": null,
     "PeriodDays": 0,
     "DateTaken": "0001-01-01T00:00:00",
-    "Name": "Book4",
-    "Author": "Author1",
-    "Category": "Category1",
-    "Language": "Language1",
-    "Publication_date": "Publication_date",
-    "ISBN": "19999819"
+    "Name": "The Higgler",
+    "Author": "A. E. Coppard",
+    "Category": "Romance",
+    "Language": "English",
+    "Publication_date": "October 31 1994",
+    "ISBN": "1-86092-010-1"
+  },
+  {
+    "WhoTaken": null,
+    "PeriodDays": 0,
+    "DateTaken": "0001-01-01T00:00:00",
+    "Name": "The Open Boat",
+    "Author": "Stephen Crane",
+    "Category": "Classic",
+    "Language": "English",
+    "Publication_date": "1897",
+    "ISBN": "1-86092-025-x"
+  },
+  {
+    "WhoTaken": null,
+    "PeriodDays": 0,
+    "DateTaken": "0001-01-01T00:00:00",
+    "Name": "The Speckled Band",
+    "Author": "Sir Arthur Conan Doyle",
+    "Category": "Crime",
+    "Language": "English",
+    "Publication_date": "April 1 2009",
+    "ISBN": "1-86092-003-9"
+  },
+  {
+    "WhoTaken": null,
+    "PeriodDays": 0,
+    "DateTaken": "0001-01-01T00:00:00",
+    "Name": "The Five Orange Pips",
+    "Author": "Arthur Conan Doyle",
+    "Category": "Crime",
+    "Language": "English",
+    "Publication_date": "November 1891",
+    "ISBN": "1-86092-031-4"
+  },
+  {
+    "WhoTaken": null,
+    "PeriodDays": 0,
+    "DateTaken": "0001-01-01T00:00:00",
+    "Name": "From a View to a Kill",
+    "Author": "Ian Fleming",
+    "Category": "Adventure",
+    "Language": "English",
+    "Publication_date": "1960",
+    "ISBN": "1-86092-055-1"
+  },
+  {
+    "WhoTaken": "Reader10025",
+    "PeriodDays": 30,
+    "DateTaken": "2021-11-05T00:04:57.5823094+02:00",
+    "Name": "The Hostage",
+    "Author": "C. S. Forester",
+    "Category": "Adventure",
+    "Language": "English",
+    "Publication_date": "1926",
+    "ISBN": "1-86092-014-4"
   }
 ]

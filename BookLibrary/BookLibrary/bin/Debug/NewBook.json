@@ -1,8 +1,8 @@
 {
-	"Name": "Book4",
-	"Author": "Author1",
-	"Category": "Category1",
-	"Language": "Language1",
-	"Publication_date": "Publication_date",
-	"ISBN": "19999819"
+	"Name": "The Hostage",
+	"Author": "C. S. Forester",
+	"Category": "Adventure",
+	"Language": "English",
+	"Publication_date": "1926",
+	"ISBN": "1-86092-014-4"
 }
