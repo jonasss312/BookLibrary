@@ -381,7 +381,7 @@ namespace BookLibrary
 			if (command.Count() == 2)
 			{
 				// Getting filter by and filter text
-				string[] filterAndFill = command[1].Split(' ');
+				string[] filterAndFill = command[1].Split(new char[] { ' ' }, 2);
 				// Checking if filter attributes were correct
 				if (filterAndFill.Count() == 2)
 				{
